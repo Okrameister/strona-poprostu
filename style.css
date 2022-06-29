@@ -1,0 +1,51 @@
+    #container{
+        width: 1000px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #logo{
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 10px;
+        font-size: 1,5pc;
+    }
+    #nav{
+        float: left;
+        width: 150px;
+        height: 500px;
+        padding: 10px;
+        background-color: burlywood;
+        text-align: justify;
+    }
+    #zaw{
+        padding: 10px;
+        float: left;
+        font-size: 30px;
+        width: 640px;
+        height: 500px;
+        background-color: grey;
+    }
+    #ad{
+        padding: 10px;
+        float: left;
+        width: 150px;
+        height: 500px;
+        background-color: burlywood;
+    }
+    #footer{
+        clear: both;
+        padding: 10px;
+        text-align: center;
+        background-color: black;
+        color: white;
+    }
+    #buton{
+        
+        height: 20px;
+        width: 20px;
+    }
+    body{
+        background-image: url("https://acegif.com/wp-content/gifs/banana-71.gif");
+        background-position-x: -50px;
+    }
