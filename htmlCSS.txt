@@ -1,0 +1,13 @@
+html 
+css
+
+word press
+elementor{
+-obsługa funkcji dynamicznych
+}
+
+js 
+php
+
+
+helloroman/frontenf-roadmap	
